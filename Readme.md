@@ -16,6 +16,9 @@ The core objective is to streamline the detection of melanoma using image analys
 	•	Seborrheic keratosis
 	•	Squamous cell carcinoma
 	•	Vascular lesion
+ 
+The code leverages Google Drive for seamless access, using Google Drive mounting techniques to streamline data retrieval and management.
+
 
 # Conclusions:
 
